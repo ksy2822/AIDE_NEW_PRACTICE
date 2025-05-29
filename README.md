@@ -7,3 +7,5 @@ Fun Fact: I'm unmarried, 24 years old
 
 feature branch에서 내용을 추가해볼게요.
 첫번쨰 수정입니다.
+
+feature/hobby 브랜치에서의 두번째 수정입니다.
